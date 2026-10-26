@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 13 problems · 0 labs · 9 math
+**23** solved · 14 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-01-18 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-20 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-01-20 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-10-26 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-01-19 | [solution](problems/0009-matrix-times-matrix) |
 
 ## Math

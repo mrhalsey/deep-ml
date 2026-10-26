@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:21:29.678Z",
+  "generated_at": "2026-10-26T00:32:09.008Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -244,6 +244,19 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-10-25T23:21:29.676Z",
       "last_pushed_at": "2026-10-25T23:21:29.676Z"
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-10-26T00:32:08.533Z",
+      "last_pushed_at": "2026-10-26T00:32:08.533Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
